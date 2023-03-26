@@ -1,0 +1,36 @@
+body{
+    font-family: 'Outfit','sans serif';
+}
+
+.intro{
+   box-sizing: border-box;
+   margin: 50px;
+}
+
+.researchCards{
+    box-sizing: border-box;
+    margin: 50px;
+}
+
+.discription{
+    margin: 25px 10px;
+}
+
+.probStatement{
+    box-sizing: border-box;
+    margin: 50px;
+}
+
+.interation{
+    box-sizing: border-box;
+    margin: 50px;
+}
+
+.list-unstyled{
+    align-items: flex-start;
+}
+
+.media{
+    display: flex;
+    align-items:row;
+}
